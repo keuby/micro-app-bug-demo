@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "vite --port=3000"
+  },
+  "dependencies": {
+    "naive-ui": "^2.35.0",
+    "vue": "^3.3.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.1",
+    "vite": "^5.0.4"
+  }
+}

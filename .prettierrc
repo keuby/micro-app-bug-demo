@@ -1,0 +1,12 @@
+{
+  "singleQuote": true,
+  "proseWrap": "preserve",
+  "tabWidth": 2,
+  "useTabs": false,
+  "endOfLine": "auto",
+  "bracketSameLine": true,
+  "bracketSpacing": true,
+  "semi": true,
+  "printWidth": 90,
+  "plugins": ["prettier-plugin-organize-imports", "prettier-plugin-packagejson"]
+}
